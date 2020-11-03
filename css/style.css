@@ -49,3 +49,9 @@ img {
   color: #fff;
   height: 70px;
 }
+
+/* Showcase */
+.showcase {
+  background-color: var(--primary-color);
+  height: 400px;
+}

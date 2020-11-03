@@ -38,6 +38,10 @@
   box-shadow: 0 1px 55px rgba(0, 0, 0, 0.09);
 }
 
+/* Showcase */
+.showcase {
+  background-color: var(--primary-color);
+}
 
 .btn {
   display: inline-block;
