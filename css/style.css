@@ -54,4 +54,10 @@ img {
 .showcase {
   background-color: var(--primary-color);
   height: 400px;
+  color: #fff;
+  position: relative;
+}
+
+.showcase h1 {
+  font-size: 40px;
 }
