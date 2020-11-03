@@ -43,3 +43,9 @@ p {
 img {
   width: 100%;
 }
+
+.navbar {
+  background-color: var(--primary-color);
+  color: #fff;
+  height: 70px;
+}
