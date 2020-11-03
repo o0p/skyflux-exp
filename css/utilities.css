@@ -5,6 +5,24 @@
   padding: 0 40px;
 }
 
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 10px;
+  margin: 0 5px;
+}
+
+.navbar a:hover {
+  border-bottom: 2px #fff solid;
+}
+
 .flex {
   display: flex;
   justify-content: center;
