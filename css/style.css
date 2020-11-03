@@ -44,10 +44,29 @@ img {
   width: 100%;
 }
 
+/* Navbar */
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
   height: 70px;
+}
+
+.navbar .flex {
+  justify-content: space-between;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 10px;
+  margin: 0 5px;
+}
+
+.navbar a:hover {
+  border-bottom: 2px #fff solid;
 }
 
 /* Showcase */
@@ -61,3 +80,8 @@ img {
 .showcase h1 {
   font-size: 40px;
 }
+
+.showcase p {
+  margin: 20px 0;
+}
+
