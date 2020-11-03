@@ -94,6 +94,18 @@ img {
   height: 350px;
 }  
 
+.showcase-form .form-control {
+  margin: 30px 0;
+}
+.showcase-form input[type='text'],
+.showcase-form input[type='email'] {
+  border: 0;
+  border-bottom: 1px solid #b4becb;
+  width: 100%;
+  padding: 3px;
+  font-size: 16px;
+}
+
 .showcase .grid {
   grid-template-columns: 55% 45%;
   gap: 30px;
