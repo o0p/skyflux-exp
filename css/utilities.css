@@ -5,22 +5,11 @@
   padding: 0 40px;
 }
 
-.navbar .flex {
-  justify-content: space-between;
-}
-
-.navbar ul {
-  display: flex;
-}
-
-.navbar a {
-  color: #fff;
-  padding: 10px;
-  margin: 0 5px;
-}
-
-.navbar a:hover {
-  border-bottom: 2px #fff solid;
+.grid {
+  display: grid;
+  gap: 20px;
+  justify-content: center;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .flex {
@@ -38,10 +27,7 @@
   box-shadow: 0 1px 55px rgba(0, 0, 0, 0.09);
 }
 
-/* Showcase */
-.showcase {
-  background-color: var(--primary-color);
-}
+
 
 .btn {
   display: inline-block;
