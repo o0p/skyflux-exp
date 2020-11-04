@@ -94,6 +94,11 @@ img {
   height: 350px;
 }  
 
+.showcase::before,
+.showcase::after {
+  content: '';
+}
+
 .showcase-form .form-control {
   margin: 30px 0;
 }
