@@ -147,6 +147,7 @@ img {
 .languages .card {
   text-align: center;
   margin: 18px 10px 40px;
+  transition:  transform 0.1s ease-in;
 }
 
 .languages .card h4 {
