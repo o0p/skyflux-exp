@@ -109,6 +109,11 @@ img {
   -ms-transform: skewY(-3deg);
 }
 
+/* Stats */
+.stats {
+  padding-top: 100px;
+}
+
 .showcase-form .form-control {
   margin: 30px 0;
 }
