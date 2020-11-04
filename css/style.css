@@ -129,6 +129,10 @@ img {
   grid-template-rows: repeat(2, 1fr);
 }
 
+.cli .grid > *:first-child {
+  
+}
+
 .stats .grid p {
   font-size: 20px;
   font-weight: bold\;
