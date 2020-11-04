@@ -142,6 +142,7 @@ img {
 /* Languages */
 .languages .card {
   text-align: center;
+  margin: 18px 10px 40px;
 }
 
 /* Stats */
