@@ -134,6 +134,12 @@ img {
   grid-row: 1 / span 2;
 }
 
+/* Cloud */
+.cloud .grid {
+  grid-template-columns: 1fr 1fr;
+}
+
+/* Stats */
 .stats .grid p {
   font-size: 20px;
   font-weight: bold\;
