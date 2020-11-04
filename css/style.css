@@ -136,7 +136,7 @@ img {
 
 /* Cloud */
 .cloud .grid {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 4fr 3fr;
 }
 
 /* Stats */
