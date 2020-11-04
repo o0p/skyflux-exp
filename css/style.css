@@ -139,6 +139,11 @@ img {
   grid-template-columns: 4fr 3fr;
 }
 
+/* Languages */
+.languages .card {
+  text-align: center;
+}
+
 /* Stats */
 .stats .grid p {
   font-size: 20px;
