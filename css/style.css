@@ -97,6 +97,12 @@ img {
 .showcase::before,
 .showcase::after {
   content: '';
+  position: absolute;
+  height: 100px;
+  background-color: #fff;
+  bottom: -70px;
+  right: 0;
+  left: 0;
 }
 
 .showcase-form .form-control {
