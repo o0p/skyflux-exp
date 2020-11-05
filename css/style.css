@@ -222,6 +222,11 @@ img {
     text-align: center;
     margin-top: 40px;
   }
+
+  .showcase-form {
+    justify-self: center;
+    margin: auto;
+  }
 }
 /* Mobile */
 @media(max-width: 500px) {
