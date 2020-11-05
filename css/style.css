@@ -199,6 +199,11 @@ img {
 
 .features-main .grid {
   padding: 30px;
+
+}
+
+.features-main .grid > *:first-child {
+  grid-column: 1 / span 3;
 }
 
 /* Features sub-head */
