@@ -217,6 +217,10 @@ img {
   .showcase {
     height: auto;
   }
+
+  .showcase-text {
+    text-align: center;
+  }
 }
 /* Mobile */
 @media(max-width: 500px) {
