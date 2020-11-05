@@ -197,6 +197,10 @@ img {
   margin-right: 20px;
 }
 
+.features-main .grid {
+  padding: 30px;
+}
+
 /* Features sub-head */
 .features-sub-head img {
   width: 300px;
