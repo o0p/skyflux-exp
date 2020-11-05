@@ -204,5 +204,7 @@ img {
 }  
 
 /* Tablets and under */
-
+@media(max-width: 500px) {
+  
+}
 /* Mobile */
