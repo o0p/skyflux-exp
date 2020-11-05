@@ -213,6 +213,10 @@ img {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
   }
+
+  .showcase {
+    height: auto;
+  }
 }
 /* Mobile */
 @media(max-width: 500px) {
