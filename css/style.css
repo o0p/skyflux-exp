@@ -194,7 +194,10 @@ img {
 }
 
 /* Features sub-head */
-
+.features-sub-head img {
+  width: 300px;
+  justify-self: flex-end;
+}
 
 /* Footer */
 .footer .social a {
