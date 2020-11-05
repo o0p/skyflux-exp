@@ -188,6 +188,9 @@ img {
 }
 
 /* Features page */
+.features-head img {
+  width: 200px;
+}
 
 /* Footer */
 .footer .social a {
