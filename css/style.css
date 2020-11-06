@@ -231,6 +231,7 @@ img {
   font-size: 17px;
   padding-bottom: 5px;
   margin-bottom: 5px;
+  border-bottom: #ccc 1px solid;
 }
 
 /* Footer */
