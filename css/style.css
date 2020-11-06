@@ -233,6 +233,9 @@ img {
   margin-bottom: 5px;
   border-bottom: #ccc 1px solid;
 }
+.docs-main a:hover {
+  font-weight: bold;
+}
 
 /* Footer */
 .footer .social a {
