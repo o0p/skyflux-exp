@@ -44,6 +44,12 @@ img {
   width: 100%;
 }
 
+code,
+pre {
+  background-color: #333;
+  
+}
+
 /* Navbar */
 .navbar {
   background-color: var(--primary-color);
