@@ -44,6 +44,14 @@ img {
   width: 100%;
 }
 
+code,
+pre {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+
+}
+
 /* Navbar */
 .navbar {
   background-color: var(--primary-color);
@@ -224,6 +232,17 @@ img {
 
 .docs-main .grid {
   grid-template-columns: 1fr 2fr;
+  align-items: flex-start;
+}
+
+.docs-main nav li {
+  font-size: 17px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  border-bottom: #ccc 1px solid;
+}
+.docs-main a:hover {
+  font-weight: bold;
 }
 
 /* Footer */
