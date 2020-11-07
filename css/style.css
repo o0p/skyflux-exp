@@ -289,7 +289,7 @@ pre {
   }
 }
 
-@keyframes slideInFromTop {
+@keyframes slideInFromBottom {
   0% {
     transform: translateY(-100%);
   }
