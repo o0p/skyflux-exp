@@ -278,7 +278,7 @@ pre {
   100% {
     transform: translateX(0);
   }
-}\
+}
 
 @keyframes slideInFromTop {
   0% {
