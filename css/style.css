@@ -271,7 +271,7 @@ pre {
   }
 }
 
-@keyframes slideInFromLeft {
+@keyframes slideInFromRight {
   0% {
     transform: translateX(-100%);
   }
