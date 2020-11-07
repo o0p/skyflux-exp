@@ -280,7 +280,7 @@ pre {
   }
 }
 
-@keyframes slideInFromRight {
+@keyframes slideInFromTop {
   0% {
     transform: translateX(100%);
   }
